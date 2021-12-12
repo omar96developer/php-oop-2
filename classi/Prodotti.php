@@ -1,7 +1,7 @@
 <?php 
 
 
-class Prodotti {
+trait Prodotti {
     public $prodotti = [
         "penna" => [
             "titolo" => "Penna",
